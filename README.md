@@ -1,4 +1,4 @@
-# 🐾 Sistema da Clínica Veterinária — Guia de correção
+#Documentação de Software 🐾 Sistema da Clínica Veterinária
 
 Sistema web para uma clínica veterinária: **cadastro e gerenciamento de tutores, pets e agendamentos**, com **login com expiração** e **CPF criptografado** no banco (proteção de dados, LGPD).
 
