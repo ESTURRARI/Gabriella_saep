@@ -62,7 +62,7 @@ CREATE INDEX idx_agendamentos_pet ON agendamentos (pet_id);
 -- ---------------------------------------------------------------------
 -- Logins de teste:
 --   admin@clinica.com    / Admin@123
---   marina@clinica.com   / Vet@12345
+--   gabriella@clinica.com / gabi123
 --   recepcao@clinica.com / Recep@123
 
 INSERT INTO usuarios (nome, email, senha_hash) VALUES
